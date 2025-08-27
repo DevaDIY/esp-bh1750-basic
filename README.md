@@ -34,3 +34,12 @@ Open Arduino IDE and install required library.
 Upload the code from this repository to your ESP32.
 
 Open Serial Monitor (115200 baud) to see the lux readings.
+
+---
+## 🌱 DevaDIY
+เรียนรู้ ESP32 + Smart Farm + IoT เพิ่มเติมได้ที่ [DevaDIY.com](https://devadiy.com)
+
+ติดตามโครงการและโค้ดอื่น ๆ ได้ที่:
+- เว็บไซต์: [https://devadiy.com](https://devadiy.com)
+- YouTube: [Deva DIY](https://youtube.com/@devadiy)
+- TikTok: [@devadiy](https://www.tiktok.com/@devadiy)
